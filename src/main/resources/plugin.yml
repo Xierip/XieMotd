@@ -1,0 +1,8 @@
+name: XieMotd
+main: pl.xierip.xiemotd.XieMotd
+author: Xierip
+version: 0.1
+commands:
+  xiemotd:
+    aliases: [xmotd]
+    description: 'Motd command'
